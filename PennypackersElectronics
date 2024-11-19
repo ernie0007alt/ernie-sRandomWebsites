@@ -5,6 +5,9 @@
   </head>
   <body>
     <h1>Welcome to Pennypacker's Electronics</h1>
-    <p>Orange iMac | $1289.99</p>
-    <p>Apple TV 4K | $149.99</p>
+      <h2>About us</h2>
+        <p>Pennypacker's Electronics is an Electronics store located on High Street in Worthington, Ohio. We are dedicated to providing our customers with great service, great prices, and great memories.</p>
+      <h2>Products we sell</h2>
+        <p>Orange iMac | $1289.99</p>
+        <p>Apple TV 4K | $149.99</p>
   </body>
